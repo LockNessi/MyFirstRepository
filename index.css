@@ -1,0 +1,14 @@
+         body{background-color: rgb(196, 238, 238);}
+         table{border: 2px solid;}
+         th{border: 2px solid;}
+         td{border: 2px solid;}
+
+         button{
+             width: 75px;
+             height: 50px;
+             background-color: rgb(227, 187, 159);
+             border-radius: 100px;
+             border: none;
+             border-color: aquamarine;
+         }
+       
